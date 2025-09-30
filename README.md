@@ -1,3 +1,4 @@
+vista previa.png
 !Vista previa del dashboard
 
 # Dashboard Financiero y de Negocios - Power BI
