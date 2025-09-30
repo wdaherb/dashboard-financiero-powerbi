@@ -1,3 +1,5 @@
+!Vista previa del dashboard
+
 # Dashboard Financiero y de Negocios - Power BI
 
 Este proyecto muestra un dashboard financiero desarrollado en Power BI, enfocado en métricas clave como ingresos por servicios, costos operativos, EBITDA, márgenes y evolución de ventas por tipos de negocio. Está diseñado para análisis mensual y seguimiento de KPIs estratégicos.
