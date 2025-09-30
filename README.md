@@ -5,22 +5,20 @@ Este proyecto muestra un dashboard financiero desarrollado en Power BI, enfocado
 ## 🛠️ Herramientas Utilizadas
 - Power BI
 - DAX
-- Excel (fuente de datos)
-- SQL (si aplica)
+- Csv (fuente de datos)
 
 ## 📊 Métricas Clave
 - Service Revenue
 - Total Cost
 - Gross Margin
 - EBITDA
-- ARPU (si aplica)
 - OPEX (S&M, G&A)
 - Operating Cash Flow (OCF)
 
 ## 📈 Visualizaciones
 - Gráficos de evolución mensual (YTD)
 - Comparación entre A/C y BU
-- Tabla de suscriptores por unidad de negocio
+- Tabla de cantidad de ventas por tipo de negocio
 - Indicadores financieros clave
 
 ## 📁 Contenido del repositorio
