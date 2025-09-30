@@ -1,4 +1,4 @@
-vista%20previa.png
+Vista%20Previa.png
 
 # Dashboard Financiero y de Negocios - Power BI
 
