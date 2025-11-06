@@ -8,5 +8,6 @@ Se concede permiso para ver, descargar y ejecutar el archivo .pbix con fines per
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA.
 
-Para consultas comerciales o licencias extendidas, contactar a: [tu correo o LinkedIn]
+Para consultas comerciales o licencias extendidas, contactar a: wdaherb@gmail.com
+
 
